@@ -29,9 +29,9 @@ published `here <https://core.telegram.org/tdlib/docs/>`__.
 JavaScript
 ==========
 
-`@zerobias <https://github.com/zerobias>`__ is working on
+`@zerobias <https://github.com/zerobias>`__ has stopped working on
 `telegram-mtproto <https://github.com/zerobias/telegram-mtproto>`__,
-a work-in-progress JavaScript library installable via
+an *archived* JavaScript library installable via
 `npm <https://www.npmjs.com/>`__.
 
 Kotlin
